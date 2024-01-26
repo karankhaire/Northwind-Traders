@@ -1,2 +1,2 @@
 # Northwind-Traders
-This repository contains the analysis of Northwind Traders overall business.
+This repository contains the analysis of Northwind Traders' overall business.
